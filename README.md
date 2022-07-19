@@ -1,4 +1,4 @@
-# Arogya Homeo Clinic
+# Arogya Homeo
 
 This repository contains code of a example static website.
 
